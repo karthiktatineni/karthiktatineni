@@ -22,7 +22,7 @@
 - 💼 **Freelance Software Developer** building production-ready, full-stack platforms end to end
 - 🤖 Passionate about **AI/ML** — RAG pipelines, vector search, AI agents, and computer vision
 - ☁️ Comfortable across the stack: **React/Next.js** frontends, **FastAPI/Node.js** backends, and **AWS/Azure** cloud infra
-- 📄 Published researcher — Scopus-indexed paper on real-time computer vision (**ICMCER 2026**)
+- 📄 Published researcher — Scopus-indexed paper on real-time computer vision based project Helmet and Triple ride Dectection using CNN and YOLO (**ICMCER 2026**)
 - 🏆 Microsoft Certified: **Azure AI Fundamentals**, currently pursuing **AI-900 / AI-102**
 - 📫 Reach me at **karthiktatineni34@gmail.com**
 
