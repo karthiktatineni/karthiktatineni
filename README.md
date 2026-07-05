@@ -36,10 +36,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
+
 **Web Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,html,css,tailwind" />
 </p>
+
+---
 
 **AI / ML**
 <p align="center">
@@ -51,6 +55,8 @@
   <img src="https://img.shields.io/badge/YOLO%20%7C%20CNN-EF4444?style=for-the-badge" />
 </p>
 
+---
+
 **DevOps & Cloud**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,grafana" />
@@ -59,11 +65,15 @@
   <img src="https://img.shields.io/badge/Azure%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
+---
+
 **Databases**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
+
+---
 
 **Tools & Platforms**
 <p align="center">
@@ -78,10 +88,6 @@
 
 ---
 
-
----
-
----
 
 ## 📄 Publications
 
