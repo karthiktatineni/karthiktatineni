@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Tatineni</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Engineer | Freelance Software Developer</h3>
+<h3 align="center">Web - Dev | AI/ML | Data Science</h3>
 
 <p align="center">
   <img 
